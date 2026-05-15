@@ -3,6 +3,3 @@ i am learning git
 i m prayansh kumar
 i play badminton
 i play basketball
-
-i play soccer
-i learn git
